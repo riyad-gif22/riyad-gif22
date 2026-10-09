@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Riyad Babu
 
-<!--
-**riyad-gif22/riyad-gif22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer | 🎓 CST Student
 
-Here are some ideas to get you started:
+I'm learning Web Development and building projects with HTML, CSS & JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Skills
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🐙 Git & GitHub
+- 💻 VS Code
+
+---
+
+## 📂 My Projects
+
+- 🌐 Kurigram Connect
+- 👁️ Third Eye for Blind
+- 💼 Personal Portfolio
+- 📝 Web Development Projects
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** Ovronillre@gmail.com
+
+🔵 **Facebook:** [Md Riyad Babu](https://www.facebook.com/mdriyad.babu.712)
+
+💼 **LinkedIn:** [Md Riyad Babu](https://www.linkedin.com/in/md-riyad-babu-2a85a9325/)
+
+🐙 **GitHub:** [riyad-gif22](https://github.com/riyad-gif22)
+
+---
+
+## 🎯 2026 Goal
+
+> Become a Full Stack Web Developer 🚀
+
+---
+
+⭐ **Thanks for visiting my profile!**
